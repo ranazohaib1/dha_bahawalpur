@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "name": "Ali Asghar",
+    "type": "selling Agents",
+    "img": "1.jpg",
+    "description": " Precious ipsum dolor sit amet consectetur adipisicing elit, sed dos mod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad min veniam, quis nostrud Precious ips um dolor sit amet, consecte"
+  },
+  {
+    "id": "2",
+    "name": "Mohammad Adam",
+    "type": "selling Agents",
+    "img": "2.jpg",
+    "description": " Precious ipsum dolor sit amet consectetur adipisicing elit, sed dos mod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad min veniam, quis nostrud Precious ips um dolor sit amet, consecte"
+  },
+  {
+    "id": "3",
+    "name": "Mian Hashir",
+    "type": "selling Agents",
+    "img": "3.jpg",
+    "description": " Precious ipsum dolor sit amet consectetur adipisicing elit, sed dos mod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad min veniam, quis nostrud Precious ips um dolor sit amet, consecte"
+  }
+]
