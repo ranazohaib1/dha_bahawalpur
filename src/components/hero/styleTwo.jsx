@@ -216,7 +216,7 @@ function HeroSectionStyleTwo({ data }) {
                           }`}
                           style={{ width: "55%"}}
                         >
-                          <img src={`/img/slider/${item.heroimage}`} alt="#" />
+                          <img src={`./img/slider/${item.heroimage}`} alt="#" />
                         </div>
                       </Col>
                     </Row>
@@ -259,7 +259,7 @@ function HeroSectionStyleTwo({ data }) {
               {data.map((item, key) => {
                 return (
                   <div className="image-slide-item" style={{width:"60% !important"}} key={key}>
-                    <img src={`/img/slider/${item.heroimage}`} alt="#" />
+                    <img src={`./img/slider/${item.heroimage}`} alt="#" />
                   </div>
                 );
               })}
