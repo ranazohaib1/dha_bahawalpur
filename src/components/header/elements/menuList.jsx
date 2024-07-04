@@ -55,7 +55,7 @@ const MenuList = ({ addListing }) => {
         </ul> */}
       </li>
       <li className="menu-icon">
-        <Link href="/about">
+        <Link href="/">
           About Us
         </Link>
         {/* <ul>
@@ -86,7 +86,7 @@ const MenuList = ({ addListing }) => {
         </ul> */}
       </li>
       <li className="menu-icon">
-        <Link href="#">
+        <Link href="/">
           Career
         </Link>
         {/* <ul>
@@ -140,7 +140,7 @@ const MenuList = ({ addListing }) => {
         </ul> */}
       </li>
       <li className="menu-icon">
-        <Link href="#">
+        <Link href="/">
           Dealers
         </Link>
         {/* <ul>
@@ -159,7 +159,7 @@ const MenuList = ({ addListing }) => {
         </ul> */}
       </li>
       <li className="menu-icon">
-        <Link href="#">
+        <Link href="/">
           Events
         </Link>
         {/* <ul>
@@ -188,18 +188,18 @@ const MenuList = ({ addListing }) => {
             <Link href="#">Ongoing Projects</Link>
             <ul>
               <li>
-                <Link href="/portfolio">Portfolio</Link>
+                <Link href="/">Main gate 2</Link>
               </li>
               <li>
-                <Link href="/portfolio/page-two">Portfolio - 02</Link>
-              </li>
-
-              <li>
-                <Link href="/team">Team</Link>
+                <Link href="/">The Real Estate Group</Link>
               </li>
 
               <li>
-                <Link href="/faq">FAQ</Link>
+                <Link href="/">Takmeel Square</Link>
+              </li>
+
+              <li>
+                <Link href="/">Pelican Mall</Link>
               </li>
             </ul>
           </li>
@@ -207,23 +207,23 @@ const MenuList = ({ addListing }) => {
             <Link href="#">Completed Projects</Link>
             <ul>
               <li>
-                <Link href="/history">History</Link>
+                <Link href="/">Askari Bank of villa Community</Link>
               </li>
               <li>
-                <Link href="/add-listing">Add Listing</Link>
+                <Link href="/">Banquet Hall</Link>
               </li>
               <li>
-                <Link href="/locations">Google Map Locations</Link>
+                <Link href="/">Commercial Market of Villa Community</Link>
               </li>
               <li>
-                <Link href="/404">404</Link>
+                <Link href="/">Mosque of Villa Community</Link>
               </li>
               <li>
-                <Link href="/contact">Contact</Link>
+                <Link href="/">Dealers Enclave</Link>
               </li>
-              <li>
+              {/* <li>
                 <Link href="/coming-soon">Coming Soon</Link>
-              </li>
+              </li> */}
             </ul>
           </li>
           {/* <li>
@@ -251,14 +251,14 @@ const MenuList = ({ addListing }) => {
             </ul>
           </li> */}
           <li>
-            <Link href="/shop">
-              <img src="/img/others/about.jpg" alt="#" />
+            <Link href="/">
+              <img src="./img/others/about.JPG" alt="#" />
             </Link>
           </li>
         </ul>
       </li>
       <li>
-        <Link href="/contact">Contact Us</Link>
+        <Link href="/">Contact Us</Link>
       </li>
 
       {/* {addListing ? ( */}
