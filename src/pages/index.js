@@ -366,7 +366,7 @@ function HomePage(props) {
       {/* <!-- SEARCH BY PLACE AREA END -->
 
     <!-- SELECT AVAILABILITY AREA START --> */}
-      <div className="select-availability-area pb-120">
+      <div className="select-availability-area pb-120 " style={{paddingTop: "40px"}}>
         <Container>
           <Row>
             <Col xs={12}>
